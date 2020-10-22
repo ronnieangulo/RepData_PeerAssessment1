@@ -211,9 +211,9 @@ print(g)
 ![](PA1_template_files/figure-html/unnamed-chunk-10-1.png)<!-- -->
 
 ```r
-print("There seem to be no significant difference between weekdays and weekends activity patterns other than an earlier start on weekdays, and a slightly greater activity on weekend midday hours.")
+print("There seem to be no significant differences between weekdays and weekends activity patterns other than an earlier start on weekdays, and a slightly greater activity on weekend midday hours.")
 ```
 
 ```
-## [1] "There seem to be no significant difference between weekdays and weekends activity patterns other than an earlier start on weekdays, and a slightly greater activity on weekend midday hours."
+## [1] "There seem to be no significant differences between weekdays and weekends activity patterns other than an earlier start on weekdays, and a slightly greater activity on weekend midday hours."
 ```
